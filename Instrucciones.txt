@@ -1,8 +1,0 @@
-Instrucciones para compilar: g++ *.cpp
-
-Intrucciones para ejecutar: ./a.out
-
-DNI's de ejemplo para probar el programa:
-	-Profesor: 45672390F
-	-Alumno: 46908421H
-	-DNI invalido: 0987635G
